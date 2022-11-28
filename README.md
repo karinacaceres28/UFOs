@@ -19,9 +19,11 @@ The portion of the webpage allowing for the user to filter the desired criteria.
 
 ### Drawbacks of the Webpage
    •	 No spell correction. The user must enter everything correctly.
+   
    •	 The user had to type in all lowercase. Typing in uppercase did not show when filtering.
 
 ### Recommendations
    •	 Allowing the user to filter regardless of upper/lowercase.
+   
    •	 Allowing the user to have the option of filtering through months of years (eg. 1/2010). The website calls for specific dates.
 
